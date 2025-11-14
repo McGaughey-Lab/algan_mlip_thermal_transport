@@ -1,6 +1,6 @@
 # Nanoscale Thermal Transport in Al<sub>x</sub>Ga<sub>1−x</sub>N using Machine Learned Interatomic Potential
 
-This repository contains computational tools and workflows for studying thermal transport properties in Al<sub>x</sub>Ga<sub>1−x</sub>N alloys using the Atomic Cluster Expansion (ACE) machine-learned interatomic potential.
+This repository contains computational tools and workflows for studying phonon thermal transport in Al<sub>x</sub>Ga<sub>1−x</sub>N using the Atomic Cluster Expansion (ACE) based machine-learned interatomic potential.
 
 ## Overview
 
